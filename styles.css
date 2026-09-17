@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-image: url(fundo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+
+}
+
+h1 {
+    font-size: 96px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: plum;
+}
+
+h2 {
+    color: white;
+    text-align: right;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 200;
+    font-family: sans-serif;
+}
